@@ -1,0 +1,73 @@
+@CHARSET "UTF-8";
+#scence{
+	
+	
+}
+#scence h2{
+	text-indent:0;
+	text-align:center;
+}
+#scence #photo{
+	width:450px;
+	border:1px solid #ccc; 
+	float:left;
+}
+#scence #content{
+	width:500px;
+	border:1px solid #ccc; 
+	float:left;	
+}
+#scence #pingfen{
+	width:500px;
+	height:123px;
+	border:1px solid #ccc;
+	float:left;	 
+}
+#scence #select{
+	width:953px;
+	height:30px;
+	border:1px solid #ccc;
+	float:left;
+}
+#scence #mokuai{
+	width:953px;
+	height:30px;
+	border:1px solid #ccc;
+	float:left;
+}
+#scence #jieshao{
+	width:953px;
+	
+	border:1px solid #ccc;
+	float:left;
+}
+#scence #xingcheng{
+	width:953px;
+	border:1px solid #ccc;
+	float:left;
+}
+#scence #xuzhi{
+	width:953px;
+	border:1px solid #ccc;
+	float:left;
+}
+#scence #youji{
+	width:953px;
+	border:1px solid #ccc;
+	float:left;
+}
+#scence #comment{
+	width:953px;
+	border:1px solid #ccc;
+	float:left;
+}
+#scence #comment p{
+	margin:20px;
+	letter-spacing:1px;
+	line-height:30px;
+	font-size:20px;
+	
+}
+#scence #select #message{
+	float:right;
+}

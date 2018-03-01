@@ -1,0 +1,53 @@
+@CHARSET "UTF-8";
+#scenic_spot{
+	width:630px;
+	height:auto;
+	border:2px solid #ccc;
+	font-size:12px;
+	float:left;
+}
+#scenic_spot h2{
+	text-indent:0;
+	text-align:center;
+	width:630px;
+	height:30px;
+	line-height:30px;
+}
+#scenic_spot #spot_1 {
+	width:300px;
+	height:auto;
+	margin:15px 6px ;
+	border:1px solid #999;
+	float:left;	
+}
+#scenic_spot #spot_1 h2 {
+	text-indent:0;
+	text-align:center;
+	width:300px;
+	height:20px;
+	line-height:20px;
+}
+
+#article {
+	width:320px;
+	height:786px;
+	border:2px solid #ccc;
+	font-size:12px;
+	float:right;
+	
+}
+#article h2 {
+	text-indent:0px;
+	text-align:center;
+	width:320px;
+	height:30px;
+	line-height:30px;
+}
+#article dl{
+	margin:10px;
+}
+#article dl dd{
+	font-size:15px;
+	line-height:30px;
+}
+

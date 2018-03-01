@@ -1,0 +1,34 @@
+@CHARSET "UTF-8";
+#pay{
+	width:auto;
+	height:600px;
+	border:2px solid #ccc;
+	font-size:12px;
+	
+}
+#pay h2{
+	text-indent:0;
+	text-align:center;
+}
+#pay h3{
+	text-indent:0;
+	text-align:center;
+}
+#pay #wechat{
+	width:200px;
+	height:250px;
+	float:left;
+}
+#pay #alipay{
+	margin:0 20px;
+	width:200px;
+	height:250px;
+	float:left;
+}
+#pay #card{
+	width:200px;
+	height:250px;
+	text-indent:0;
+	text-align:center;
+	
+}

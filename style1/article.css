@@ -1,0 +1,25 @@
+@CHARSET "UTF-8";
+#article{
+	height:auto;
+	width:auto;
+	
+	border:2px solid #ccc;
+	
+}
+#article h3{
+	font-size:35px;
+	color:blue;
+	text-indent:0;
+	text-align:center;
+	width:auto;
+	height:30px;
+	line-height:30px;
+	margin:30px;
+}
+#article p{
+	margin:20px;
+	letter-spacing:1px;
+	line-height:30px;
+	font-size:20px;
+	
+}
